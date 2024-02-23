@@ -1,5 +1,5 @@
 import { Schema } from "mongoose";
-
+// NOTE updating 
  export const HouseSchema = new Schema( 
     {
     bedrooms: {
